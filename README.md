@@ -1,5 +1,5 @@
 # getmymettlo.github.io
-<h1>Get My Mettle </h1>a
+<h1>Get My Mettle </h1>
 
 Physical fitness is crucial for several reasons that span both physical and mental well-being. Here are some key points highlighting its importance:
 
